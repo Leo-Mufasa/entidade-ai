@@ -14,7 +14,7 @@ export default function App() {
       <img
         src="/passaros-flutuando.png"
         alt="Pássaros"
-        className="absolute bottom-[48%] left-1/2 w-[40vw] max-w-[1200px] object-contain z-30 animate-fly pointer-events-none"
+        className="absolute bottom-[48%] left-1/2 w-[40vw] max-w-[200px] object-contain z-30 animate-fly pointer-events-none"
       />
 
       {/* Frase central */}
