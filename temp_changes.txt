@@ -1,0 +1,4 @@
+ M src/App.jsx
+ M src/index.css
+?? subir_entidade.bat
+?? temp_changes.txt
