@@ -26,7 +26,7 @@ export default function App() {
       />
 
       {/* Frase central (mais abaixo, maior, mais espaçosa) */}
-      <div className="absolute bottom-[40%] md:bottom-[32%] left-1/2 -translate-x-1/2 z-40 px-4">
+      <div className="absolute bottom-[47%] md:bottom-[32%] left-1/2 -translate-x-1/2 z-40 px-4">
         <h1 className="text-black text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold tracking-widest uppercase max-w-xl text-center drop-shadow-md leading-relaxed">
           Você chegou até aqui.<br />Isso é tudo.
         </h1>
