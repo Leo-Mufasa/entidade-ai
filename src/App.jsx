@@ -1,8 +1,8 @@
 export default function App() {
   return (
-    <main className="relative w-full h-screen text-black">
+    <main className="relative w-full h-screen text-black overflow-hidden">
       <div
-        className="absolute inset-0 bg-no-repeat bg-center bg-contain md:bg-cover"
+        className="absolute inset-0 bg-no-repeat bg-center bg-contain"
         style={{ backgroundImage: 'url("/bg-entidade.png")' }}
       ></div>
       <div className="relative z-10 flex items-center justify-center h-full">
