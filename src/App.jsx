@@ -14,11 +14,11 @@ export default function App() {
       <img
         src="/passaros-flutuando.png"
         alt="Pássaros"
-        className="absolute bottom-[48%] left-1/2 w-[40vw] max-w-[200px] object-contain z-30 animate-fly pointer-events-none"
+        className="absolute bottom-[48%] left-1/2 w-[40vw] max-w-[200px] object-contain z-100 animate-fly pointer-events-none"
       />
 
       {/* Frase central */}
-      <div className="absolute bottom-[45%] md:bottom-[38%] left-1/2 -translate-x-1/2 z-40 px-4">
+      <div className="absolute bottom-[50%] md:bottom-[38%] left-1/2 -translate-x-1/2 z-40 px-4">
         <h1 className="text-black text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl font-bold tracking-widest uppercase max-w-md text-center drop-shadow-md leading-relaxed">
           Você chegou até aqui.<br />Isso é tudo.
         </h1>
