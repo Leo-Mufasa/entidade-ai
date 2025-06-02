@@ -3,14 +3,14 @@ export default function App() {
     <main className="relative w-full h-screen overflow-hidden bg-black">
       {/* Fundo para dispositivos desktop */}
       <img
-        src="/bg-entidade-desktop.jpg"
+        src="/bg-entidade-desktop.png"
         alt="Fundo Desktop"
         className="absolute inset-0 w-full h-full object-cover hidden sm:block z-0"
       />
 
       {/* Fundo para dispositivos móveis */}
       <img
-        src="/bg-entidade-mobile.jpg"
+        src="/bg-entidade-mobile.png"
         alt="Fundo Mobile"
         className="absolute inset-0 w-full h-full object-cover block sm:hidden z-0"
       />
