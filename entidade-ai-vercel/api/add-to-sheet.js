@@ -1,7 +1,7 @@
 
 const fetch = require('node-fetch');
 
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/SEU_ENDPOINT_ID/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzTr3XPROR3pIlMvGHmN5zO9FCsQBkch5PCPO8NE0ZWOeE1ReTdg4PiU6-539x23TjJ/exec';
 
 module.exports = async (req, res) => {
   if (req.method !== 'POST') {
