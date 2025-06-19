@@ -1,0 +1,17 @@
+
+{
+  "name": "entidade-ai-gsheet-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para enviar dados do ChatGPT para o Google Sheets via Apps Script",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "openai": "^4.0.0",
+    "body-parser": "^1.19.0"
+  }
+}

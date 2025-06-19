@@ -1,4 +1,3 @@
- M src/App.jsx
- M src/index.css
-?? subir_entidade.bat
-?? temp_changes.txt
+ M temp_changes.txt
+?? proxy/
+?? public/bg-entidade-mobile.png
